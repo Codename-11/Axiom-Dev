@@ -1,4 +1,4 @@
-baseURL = "http://blog.axiom-dev.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Axiom Dev - Blog"
 description = "A blog following my path twoards a career in CS"
