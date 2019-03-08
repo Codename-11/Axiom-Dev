@@ -18,28 +18,12 @@
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/2014/09/28/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://blog.axiom-dev.com/2014/04/02/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://blog.axiom-dev.com/2014/04/02/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://blog.axiom-dev.com/2014/03/10/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://blog.axiom-dev.com/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.axiom-dev.com/tags/blog/</loc>
     <priority>0</priority>
   </url>
   
@@ -54,20 +38,21 @@
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>http://blog.axiom-dev.com/tags/dev/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://blog.axiom-dev.com/1/01/01/getting-started-with-hugo/</loc>
+  </url>
+  
+  <url>
     <loc>http://blog.axiom-dev.com/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.axiom-dev.com/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -83,13 +68,6 @@
   
   <url>
     <loc>http://blog.axiom-dev.com/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.axiom-dev.com/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -100,7 +78,11 @@
   
   <url>
     <loc>http://blog.axiom-dev.com/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.axiom-dev.com/tags/projects/</loc>
     <priority>0</priority>
   </url>
   
@@ -115,30 +97,12 @@
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.axiom-dev.com/tags/syntax-highlighting/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://blog.axiom-dev.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.axiom-dev.com/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.axiom-dev.com/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
