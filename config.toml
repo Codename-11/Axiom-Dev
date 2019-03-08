@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-baseURL = "/"
-=======
-baseURL = "blog.axiom-dev.com/"
->>>>>>> parent of c4d5525... Added http:// to baseURL in config.toml
+baseURL = "http://blog.axiom-dev.com/"
 languageCode = "en-us"
 title = "Axiom Dev - Blog"
 description = "A blog following my path twoards a career in CS"
