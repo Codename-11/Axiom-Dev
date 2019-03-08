@@ -1,7 +1,7 @@
-baseURL = "/"
+baseURL = "http://blog.axiom-dev.com/"
 languageCode = "en-us"
 title = "Axiom Dev - Blog"
-description = "A blog following my path twoards a career in CS"
+description = "A blog following my path towards a career in CS"
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -12,11 +12,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Timothy Dixon"
-    description = "A blog following my path twoards a career in CS"
-    logo = "favicon/android-chrome-192x192.png"
+    description = "A blog following my path towards a career in CS"
+    logo = "profile.png"
     twitterAuthor = ""
     githubUsername = "Tim-Dixon"
-    accent = "#386890" # dark colors do best
+    accent = "#1149ff" # dark colors do best
     backgroundColor = "#f5f5f5"
     font = "Mina" # should match the name on Google Fonts!
     highlight = true
