@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [params]
     author = "Timothy Dixon"
     description = "A blog following my path twoards a career in CS"
-    logo = "favicon/android-chrome-192x192.png"
+    logo = "favicon/profile.png"
     twitterAuthor = ""
     githubUsername = "Tim-Dixon"
     accent = "#386890" # dark colors do best
