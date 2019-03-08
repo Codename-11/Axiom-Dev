@@ -16,3 +16,6 @@ WordPress, a well known and commonly used CMS. Since then and after creating var
 searching for a more light-weight solution that could run on a Raspberry Pi without difficulty. I'm hoping to gain further understanding of the framework 
 and use it as a blog for my future endavors as I start my journey in computer sciences. 
 
+## License
+
+This repository and all contents within are protected by the Apache 2.0 license. See LICENSE.md. 
