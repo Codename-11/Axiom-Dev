@@ -1,6 +1,6 @@
 ---
-title: "Getting Started with Hugo"
-date: 2019-03-028
+title: "Test Post"
+date: 2019-03-08
 tags: ["Hugo", "Blog","Projects", "Dev"]
 draft: false
 ---
@@ -24,4 +24,3 @@ Corresponding pseudo commands:
   test
 
 Once you've gotten here, follow along the rest of this page on your local build.
-
