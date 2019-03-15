@@ -1,0 +1,19 @@
+---
+title: "Hello World & Intro"
+date: 2019-03-15
+tags: ["Hello World", "Blog", "Dev"]
+draft: false
+---
+
+# Hello World! & Introduction
+## My first blog post, and an Intro
+
+This post is mostly a to test the usage and properties of [Markdown](https://en.wikipedia.org/wiki/Markdown) as this and all future blog posts will be written in it. It's also a post to explain a little bit about why this blog exists.
+
+## Introduction:
+
+My name is Bailey, and I'm beginning my journey towards a career in Computer Science (CS). I am writing this blog to use as a tool for learning in hopes that coming back and explaining in detail the project I'm working on, it will reinforce what I will be learning at the time. I'm also hoping that it will eventually be a portfolio of my projects showing the improvement I've made and the skills I've learned. This blog is hosted on a Raspberry Pi 3 running a LAMP stack. The site was generated using [Hugo](https://gohugo.io/), a static site generator written in Go Lang. 
+
+## *Preface:*
+
+I have been interested in computers since I was very young. I started dabbling with programming in 7th grade when A friend of mine first introduced me to Batch, HTML, and CSS. During that time I found joy in being able to create with nothing but lines of code. I thought it was amazing that someone could control a computer, and use that control to make the computer do virtually anything! I was hooked. Not long after, I found an interest in arduino's, but along with all the other parts of being a kid, I didn't get much past making LED's blink. Even buying the book C++ Primer (Fifth Edition) didn't spur me on like I thought it would. I wanted to do more, but it seemed to complicated at the time. I started playing Minecrft and after getting into that for awhile and playing with others online, I started building websites for servers I played on, and eventually for a server I ran myself. I eventually grew bored of writing websites in HTML & CSS so I moved to learning a Content Management System (CMS). I of course found [Wordpress](https://wordpress.org/), a widely used and well documented CMS. Some time later I stumbled across the [Raspberry Pi Foundation](https://www.raspberrypi.org). After purchasing a Raspberry Pi 2, I didn't really know what to do with it. I knew what Linux was, but hadn't really used it for more than an hour at a time, and that was just to test it out. I knew though that it had all the capabilities to become something cool, all I had to do though was think of what that something was. Easier said than done of course. Of course the first project I attempted was an 8x8x8 LED Matrix Display. Horrible choice as a beginner project, at least with where my skill level was at that point. I did successfully create the cube! That is, I was able to solder the LED's and wire's together correctly to where it functioned as intended, if the function is to only light up one LED at a time by applying voltage & current from a power supply to one row and one column at a time. I was never able to read the wiring diagram for how to construct the circuit needed to drive the Matrix Display, which meant I didn't even make it to the programming point in that project... Since then I have tried to take a better approach in my learning by being realistic in my project goals and being more logical in my methods of learning. I am now pretty familiar and fluent using the Linux CLI. I have 3 Raspberry Pi's, each having it's own tasks. I run various 'self-hosted' services and softwares on them. I'm particularly a fan of the open source home automation software [Home Assistant](https://www.home-assistant.io/), which I'm integrating into my home in every place I can find and for every purpose I can think of. 
