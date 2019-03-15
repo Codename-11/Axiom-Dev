@@ -9,19 +9,11 @@
     <atom:link href="http://blog.axiom-dev.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-<<<<<<< HEAD
-      <title>Test Post</title>
-      <link>http://blog.axiom-dev.com/2019/03/08/test-post/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.axiom-dev.com/2019/03/08/test-post/</guid>
-=======
       <title>Hello World &amp; Intro</title>
       <link>http://blog.axiom-dev.com/2019/03/15/hello-world--intro/</link>
       <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://blog.axiom-dev.com/2019/03/15/hello-world--intro/</guid>
->>>>>>> initial-content
       <description>
 
 &lt;h1 id=&#34;hello-world-introduction&#34;&gt;Hello World! &amp;amp; Introduction&lt;/h1&gt;
