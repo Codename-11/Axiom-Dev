@@ -17,6 +17,7 @@
       <description></description>
     </item>
     
+<<<<<<< HEAD
     <item>
       <title>Test Post</title>
       <link>http://blog.axiom-dev.com/2019/03/08/test-post/</link>
@@ -46,5 +47,7 @@
 </description>
     </item>
     
+=======
+>>>>>>> initial-content
   </channel>
 </rss>
