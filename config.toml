@@ -1,7 +1,7 @@
-baseURL = "http://blog.axiom-dev.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Axiom Dev - Blog"
-description = "A blog following my path towards a career in CS"
+description = "A blog following my proects & my path towards a career in CS"
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Timothy Dixon"
-    description = "A blog following my path towards a career in CS"
+    description = "A blog following my projects & my  path towards a career in CS"
     logo = "profile.png"
     twitterAuthor = ""
     githubUsername = "Tim-Dixon"

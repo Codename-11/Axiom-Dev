@@ -2,113 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.axiom-dev.com/project/project1/</loc>
+    <loc>/project/project1/</loc>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/project/project2/</loc>
+    <loc>/project/project2/</loc>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/project/project3/</loc>
+    <loc>/project/project3/</loc>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/project/project4/</loc>
+    <loc>/project/project4/</loc>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/2019/03/15/hello-world--intro/</loc>
+    <loc>/2019/03/15/hello-world--intro/</loc>
     <lastmod>2019-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/</loc>
-    <lastmod>2019-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.axiom-dev.com/tags/blog/</loc>
+    <loc>/</loc>
     <lastmod>2019-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/bootstrap/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.axiom-dev.com/tags/css/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.axiom-dev.com/tags/dev/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2019-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/go/</loc>
+    <loc>/tags/bootstrap/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/golang/</loc>
+    <loc>/tags/css/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/hello-world/</loc>
+    <loc>/tags/dev/</loc>
     <lastmod>2019-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/highlight-js/</loc>
+    <loc>/tags/go/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/html/</loc>
+    <loc>/tags/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/hugo/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.axiom-dev.com/tags/js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.axiom-dev.com/post/</loc>
+    <loc>/tags/hello-world/</loc>
     <lastmod>2019-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/project/</loc>
+    <loc>/tags/highlight-js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/responsive/</loc>
+    <loc>/tags/html/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/syntax-highlighting/</loc>
+    <loc>/tags/hugo/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.axiom-dev.com/tags/</loc>
+    <loc>/tags/js/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/responsive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/syntax-highlighting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
