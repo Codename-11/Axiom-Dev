@@ -1,8 +1,9 @@
 # Axiom-Dev
-# Personal Blog generated with Hugo and ran with Apache on a Raspberry Pi.
-## [http://blog.axiom-dev.com](http://blog.axiom-dev.com)
+# Personal Blog generated with Hugo. Running with Nginx on a Raspberry Pi.
+## [http://blog.axiom-labs.io](http://blog.axiom-labs.io)
 
-## This is a repository mostly for the purpose of teaching myself Git-Hub and Hugo on a Raspberry Pi 3. 
+## This is a repository mostly for the purpose of teaching myself Git-Hub and static site generators (Hugo for the purpose of this blog) on a Raspberry Pi 3 B+. 
+### This blog is currently under development. The final version will be added as a "Release".
 
 ## Git-Hub
 
