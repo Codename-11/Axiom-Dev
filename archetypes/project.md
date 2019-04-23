@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 description: ""
 repo: ""
-date: {{ dateFormat "01-02-2019" .Date }}
+date: {{ dateFormat "2006-01-02" .Date }}
 tags: []
 weight: 0
 draft: true
