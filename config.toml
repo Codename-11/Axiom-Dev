@@ -4,7 +4,7 @@ title = "Axiom Dev - Blog"
 description = "A blog following my proects & my path towards a career in CS"
 theme = "min_night"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-138990401-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [permalinks]
@@ -35,14 +35,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 2
 
 [[menu.main]]
-    url = "https://tim-dixon.github.io/github-web-portfolio/"
+    url = "/projects/"
     name = "Projects"
     weight = 3
-    
+
 [[menu.main]]
     url = "/tags/"
     name = "Tags"
     weight = 4
+
+[[menu.main]]
+    url = "https://tim-dixon.github.io/github-web-portfolio/"
+    name = "Git-Hub Portfolio"
+    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
