@@ -1,6 +1,6 @@
 ---
 title: "Hello World & Intro"
-date: 2019-03-15
+date: 03-15-2019
 tags: ["Hello World", "Blog", "Dev"]
 draft: false
 ---
